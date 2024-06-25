@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manne</h1>
 <h3 align="center">A student developer at DCI</h3>
 
+- 🔭 I’m currently working on a **idea for a little text adventure game**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
