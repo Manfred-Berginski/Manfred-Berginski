@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently working on a **idea for a little text adventure game**
 
+- 🌱 I’m currently learning **Web-Dev**
+
+- 💬 I'm working on **Mac, Linux, Windows**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
